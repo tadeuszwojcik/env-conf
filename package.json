@@ -1,6 +1,6 @@
 {
     "name": "env-conf",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "environment based configuration",
     "main": "index.js",
     "repository": {

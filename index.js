@@ -1,5 +1,6 @@
 var assert = require('assert');
 var extend = require('node.extend');
+var path = require('path');
 
 function ovverrideConfingWithEnviromentSettings(config, env, parentName) {
     var envPropertyName, key, val;
