@@ -1,19 +1,19 @@
 {
     "name": "env-conf",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "environment based configuration",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git://github.com/codefather/env-conf.git"
+        "url": "git://github.com/tadeuszwojcik/env-conf.git"
     },
-    "homepage": "https://github.com/codefather/env-conf",
+    "homepage": "https://github.com/tadeuszwojcik/env-conf",
     "keywords": [
         "configuration"
     ],
     "dependencies": {
         "node.extend": "*"
     },
-    "author": "Tadeusz Wójcik <tadeusz@codefather.io>",
+    "author": "Tadeusz Wójcik <tadeuszwojcik@gmail.com>",
     "license": "MIT"
 }
